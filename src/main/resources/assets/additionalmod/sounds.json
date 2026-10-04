@@ -1,0 +1,9 @@
+{
+  "malus_sound": {
+    "category": "players",
+    "subtitle": "additionalmod.malus_sound",
+    "sounds": [
+      "additionalmod:malus_sound"
+    ]
+  }
+}

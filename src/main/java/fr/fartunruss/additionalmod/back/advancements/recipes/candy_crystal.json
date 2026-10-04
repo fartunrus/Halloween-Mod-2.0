@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "halloweenmod:candy_crystal"
+    ]
+  },
+  "criteria": {
+    "has_candies": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "halloweenmod:candy"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "halloweenmod:candy_crystal"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_candies",
+      "has_the_recipe"
+    ]
+  ]
+}

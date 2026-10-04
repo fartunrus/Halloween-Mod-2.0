@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "###",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "halloweenmod:candy"
+    }
+  },
+  "result": {
+    "item": "halloweenmod:candy_crystal",
+    "count": 1
+  }
+}

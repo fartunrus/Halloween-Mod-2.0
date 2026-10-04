@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #C",
+    "#O#",
+    "I# "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:pumpkin"
+    },
+    "C": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "O": {
+      "item": "halloweenmod:candy_crystal"
+    },
+    "#": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "halloweenmod:magical_wand"
+  }
+}

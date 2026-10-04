@@ -1,0 +1,19 @@
+{
+  "item.additionalmod.candy": "Candy",
+  "item.additionalmod.candy_crystal": "Candy crystal",
+  "item.additionalmod.magical_wand": "Magical wand",
+  "entity.additionalmod.ghost": "Ghost",
+  "text.additionalmod.eternalnight.start": "§4Fear the traveler, you weren't lucky at this hour... This is Eternal Night!",
+  "text.additionalmod.eternalnight.end": "§4Oh no! It's Eternal Night!",
+  "text.additionalmod.averevivus-shangrin": "§4§lRevivalist: Ave Revivus!",
+  "text.additionalmod.averevivus-me": "§6§l(Coder) Fartunruss: §4Ave Revivus!",
+  "text.additionalmod.averevivus-player": "§lYou: §rWhat?",
+  "text.additionalmod.malus": "§6§l(Coder) Fartunruss: §4Malus.",
+  "text.additionalmod.wanddesc": "§6Use experience to fly",
+
+  "itemGroup.Additional": "§6Additional Mod",
+  "additionalmod.malus_sound": "Malus.",
+  "key.wand_using.desc": "Button to use wand",
+  "key.wand_using_improved.desc": "Button to fly higher with wand",
+  "key.additionalmod.category": "Additional Mod"
+}

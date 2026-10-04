@@ -1,0 +1,19 @@
+{
+  "item.additionalmod.candy": "Конфета",
+  "item.additionalmod.candy_crystal": "Кристалл из конфет",
+  "item.additionalmod.magical_wand": "Магический посох",
+  "entity.additionalmod.ghost": "Призрак",
+  "text.additionalmod.eternalnight.start": "§4Бойся путник, не свезло тебе в этот час... Это Вечная Ночь!",
+  "text.additionalmod.eternalnight.end": "§4Воздрайтесь, смертные, ведь спасён был этот мир и Свет вернулся!",
+  "text.additionalmod.averevivus-shangrin": "§4§lВозродитель: Ave Revivus!",
+  "text.additionalmod.averevivus-me": "§6§l(код) Fartunruss: §4Ave Revivus!",
+  "text.additionalmod.averevivus-player": "§lТы: §rЧё?",
+  "text.additionalmod.malus": "§6§l(код) Fartunruss: §4Malus.",
+  "text.additionalmod.wanddesc": "§6Использует опыт для полёта",
+
+  "itemGroup.Additional": "§6Additional Mod",
+  "additionalmod.malus_sound": "Malus.",
+  "key.wand_using.desc": "Кнопка использования посоха",
+  "key.wand_using_improved.desc": "Кнопка, чтобы лететь выше с посохом",
+  "key.additionalmod.category": "Additional Mod"
+}
